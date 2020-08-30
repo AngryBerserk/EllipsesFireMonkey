@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.828,=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.pas=D:\Distributives\Proj\Delphi\Ellipses_Monkey\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.fmx=D:\Distributives\Proj\Delphi\Ellipses_Monkey\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Project1.dproj=D:\Distributives\Proj\Delphi\Ellipses_Monkey\Ellipses.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
